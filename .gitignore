@@ -1,4 +1,8 @@
 *.dat
 venus.txt
+space-tools/cassini.txt
+space-tools/rover.txt
+space-tools/LSST.txt
+space-tools/hubble.txt
 results/
 
