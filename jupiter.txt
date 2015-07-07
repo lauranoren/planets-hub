@@ -1,1 +1,2 @@
-this is a file about jupiter.
+I am happy to be done with this exercise. I apparently didn't commit my previous comments on Jupiter correctly.
+Jupiter is a big gaseous planet.
